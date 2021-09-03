@@ -1,0 +1,12 @@
+p, button{
+    color: #B8860B;
+}
+
+button{
+    border-radius: 30%;
+    border: none;
+    width: 100px;
+    height: 100px;
+    font-size: 20px;
+    background-color: #8B4513;
+}
